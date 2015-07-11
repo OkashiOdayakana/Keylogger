@@ -1,0 +1,5 @@
+c:\users\gus\documents\visual studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\bin\Release\Windows Local Host Process.exe.config
+c:\users\gus\documents\visual studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\bin\Release\Windows Local Host Process.exe
+c:\users\gus\documents\visual studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\bin\Release\Windows Local Host Process.pdb
+c:\users\gus\documents\visual studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\obj\Release\Windows Local Host Process.exe
+c:\users\gus\documents\visual studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\obj\Release\Windows Local Host Process.pdb

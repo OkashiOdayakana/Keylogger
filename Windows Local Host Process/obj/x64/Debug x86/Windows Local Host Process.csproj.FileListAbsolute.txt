@@ -1,0 +1,1 @@
+c:\users\gus\documents\visual studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\bin\x64\Debug x86\Windows Local Host Process.exe.config

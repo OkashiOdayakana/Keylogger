@@ -1,0 +1,6 @@
+C:\Users\Gus\Documents\Visual Studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\bin\x64\Debug\Windows Local Host Process.exe.config
+C:\Users\Gus\Documents\Visual Studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\bin\x64\Debug\Windows Local Host Process.exe
+C:\Users\Gus\Documents\Visual Studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\bin\x64\Debug\Windows Local Host Process.pdb
+C:\Users\Gus\Documents\Visual Studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\obj\x64\Debug\Windows Local Host Process.exe
+C:\Users\Gus\Documents\Visual Studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\obj\x64\Debug\Windows Local Host Process.pdb
+C:\Users\Gus\documents\visual studio 2013\Projects\Windows Local Host Process\Windows Local Host Process\obj\x64\Debug\Windows Local Host Process.csprojResolveAssemblyReference.cache
