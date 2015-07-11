@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
@@ -73,7 +73,7 @@ class InterceptKeys
 
 }
 
-/*
+/* WORK IN PROGRESS
 class InterceptMouse
 {
     private static LowLevelMouseProc _proc = HookCallback;
